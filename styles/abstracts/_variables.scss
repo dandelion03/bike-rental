@@ -1,0 +1,31 @@
+$colors: (
+  "primary": #3d003e,
+  "black": #000000,
+  "white": #ffffff,
+  "secondary": #00f5ff,
+  "tertiary": #00ff78,
+  "quinary": #5856d6,
+  "senary": #3caab0,
+  "septenary": #092242,
+  "error": #ff2d55,
+  "success": #4cd964,
+  "hint": #c4b2c5,
+  "blue-green-gradient":
+    linear-gradient(150deg, rgba(0, 255, 120, 1) 4%, rgba(0, 245, 255, 1) 98%),
+);
+$primary: #3d003e;
+$black: #000000;
+$white: #ffffff;
+$secondary: #00f5ff;
+$tertiary: #00ff78;
+$quinary: #5856d6;
+$senary: #3caab0;
+$septenary: #092242;
+$error: #ff2d55;
+$success: #4cd964;
+$hint: #c4b2c5;
+$blue-green-gradient: linear-gradient(
+  150deg,
+  rgba(0, 255, 120, 1) 4%,
+  rgba(0, 245, 255, 1) 98%
+);

@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap");
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Tajawal, sans-serif;
+  font-weight: 400;
+}
+
+.text-primary {
+  color: #3d003e;
+}
+
+.bg-primary {
+  background-color: #3d003e;
+}
+
+.text-black {
+  color: #000000;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.text-secondary {
+  color: #00f5ff;
+}
+
+.bg-secondary {
+  background-color: #00f5ff;
+}
+
+.text-tertiary {
+  color: #00ff78;
+}
+
+.bg-tertiary {
+  background-color: #00ff78;
+}
+
+.text-quinary {
+  color: #5856d6;
+}
+
+.bg-quinary {
+  background-color: #5856d6;
+}
+
+.text-senary {
+  color: #3caab0;
+}
+
+.bg-senary {
+  background-color: #3caab0;
+}
+
+.text-septenary {
+  color: #092242;
+}
+
+.bg-septenary {
+  background-color: #092242;
+}
+
+.text-error {
+  color: #ff2d55;
+}
+
+.bg-error {
+  background-color: #ff2d55;
+}
+
+.text-success {
+  color: #4cd964;
+}
+
+.bg-success {
+  background-color: #4cd964;
+}
+
+.text-hint {
+  color: #c4b2c5;
+}
+
+.bg-hint {
+  background-color: #c4b2c5;
+}
+
+.text-blue-green-gradient {
+  color: linear-gradient(150deg, rgb(0, 255, 120) 4%, rgb(0, 245, 255) 98%);
+}
+
+.bg-blue-green-gradient {
+  background-color: linear-gradient(150deg, rgb(0, 255, 120) 4%, rgb(0, 245, 255) 98%);
+}
+
+button {
+  color: #3d003e;
+}/*# sourceMappingURL=style.css.map */
